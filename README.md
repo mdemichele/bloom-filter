@@ -6,4 +6,4 @@ The project also provides a testing apparatus. To test the bloom filter, the tes
 # Running the Project
 To run the tests, use the command:
 
-python3 tests.py
+```python3 tests.py```
